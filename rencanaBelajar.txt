@@ -1,9 +1,10 @@
 belajar beberapa bahasa pemograman
   * java
-  * php
+  * Native PHP, frameworknya :
+   --> Laravel
   * javascript
    --> nodejs
    --> reactjs
    --> nextjs
+   --> AngularJs
   * phyton
-  * c
